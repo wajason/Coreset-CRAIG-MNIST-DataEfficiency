@@ -4,6 +4,7 @@
 [![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)](https://jupyter.org/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Stars](https://img.shields.io/github/stars/wajason/Coreset-CRAIG-MNIST-DataEfficiency?style=social)](https://github.com/wajason/Coreset-CRAIG-MNIST-DataEfficiency/stargazers)
+[![Run in Colab](https://img.shields.io/badge/Open%20in-Colab-4C8EDA?style=for-the-badge&logo=googlecolab)](https://colab.research.google.com/github/wajason/Coreset-CRAIG-MNIST-DataEfficiency/blob/main/Coreset.ipynb)
 
 > 💡 *"Smarter data beats more data."*  
 > A minimal yet powerful demonstration of **data-efficient learning** through **Coreset selection (CRAIG)**.
@@ -91,4 +92,4 @@ If this project helps your research or learning, please ⭐ the repo!
 Contributions, issues, and suggestions are welcome via GitHub.
 
 
-#### ⚡ "Train less, learn more — powered by Coreset (CRAIG)."
+> ⚡ "Train less, learn more — powered by Coreset (CRAIG)."
